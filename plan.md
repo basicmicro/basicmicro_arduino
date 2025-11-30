@@ -2,7 +2,7 @@
   "metadata": {
     "version": "1.0.0",
     "format": "json",
-    "last_updated": "2025-11-30T20:15:08.234827+00:00"
+    "last_updated": "2025-11-30T20:17:09.560124+00:00"
   },
   "groups": [
     {
@@ -87,6 +87,16 @@
               "timestamp": "2025-11-30T20:15:08.234645Z",
               "action": "intent",
               "details": "Update origin remote with new acidtech token"
+            },
+            {
+              "timestamp": "2025-11-30T20:16:49.585541Z",
+              "action": "intent",
+              "details": "Test with credential helper disabled"
+            },
+            {
+              "timestamp": "2025-11-30T20:17:09.559940Z",
+              "action": "intent",
+              "details": "Check global credential config"
             }
           ],
           "knowledge": []
