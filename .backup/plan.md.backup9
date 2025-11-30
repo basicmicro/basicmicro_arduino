@@ -2,7 +2,7 @@
   "metadata": {
     "version": "1.0.0",
     "format": "json",
-    "last_updated": "2025-11-30T19:24:08.724092+00:00"
+    "last_updated": "2025-11-30T19:23:24.803534+00:00"
   },
   "groups": [
     {
@@ -49,14 +49,6 @@
           "content": "STOP REQUEST [TASKS_BLOCKED]: Waiting for omniclaude tool fix before continuing Arduino library validation",
           "type": "context",
           "added_at": "2025-11-30T18:47:56.717514Z",
-          "updated_at": null,
-          "related_tasks": []
-        },
-        {
-          "id": "1a747639",
-          "content": "STOP REQUEST [NEED_USER_INPUT]: Validation complete. Found 3 issues: wrong URL, wrong version, no release tag. Should I create tasks to fix these?",
-          "type": "context",
-          "added_at": "2025-11-30T19:24:08.723996Z",
           "updated_at": null,
           "related_tasks": []
         }
