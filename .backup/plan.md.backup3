@@ -2,7 +2,7 @@
   "metadata": {
     "version": "1.0.0",
     "format": "json",
-    "last_updated": "2025-11-30T18:47:56.717575+00:00"
+    "last_updated": "2025-11-30T18:42:40.506257+00:00"
   },
   "groups": [
     {
@@ -21,32 +21,7 @@
           "knowledge": []
         }
       ],
-      "knowledge": [
-        {
-          "id": "45241195",
-          "content": "STOP REQUEST [NEED_USER_INPUT]: Which tool should I use to read file contents? I don't see a 'read' operation in omniclaude - should I use Claude Code's native Read tool instead?",
-          "type": "context",
-          "added_at": "2025-11-30T18:44:41.398451Z",
-          "updated_at": null,
-          "related_tasks": []
-        },
-        {
-          "id": "684a5125",
-          "content": "STOP REQUEST [TASKS_BLOCKED]: Waiting for user to fix omniclaude MCP tool modifications before continuing with library validation",
-          "type": "context",
-          "added_at": "2025-11-30T18:47:40.003531Z",
-          "updated_at": null,
-          "related_tasks": []
-        },
-        {
-          "id": "8abc4ddd",
-          "content": "STOP REQUEST [TASKS_BLOCKED]: Waiting for omniclaude tool fix before continuing Arduino library validation",
-          "type": "context",
-          "added_at": "2025-11-30T18:47:56.717514Z",
-          "updated_at": null,
-          "related_tasks": []
-        }
-      ],
+      "knowledge": [],
       "status": "active",
       "created_at": "2025-11-30T18:42:36.378199Z",
       "activated_at": "2025-11-30T18:42:40.506210Z",

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "format": "json",
+    "last_updated": "2025-11-30T18:42:36.378273+00:00"
+  },
+  "groups": [
+    {
+      "name": "arduino-submission",
+      "description": "Validate Arduino Library 1.5+ compliance and prepare for Library Manager submission",
+      "tasks": [],
+      "knowledge": [],
+      "status": "inactive",
+      "created_at": "2025-11-30T18:42:36.378199Z",
+      "activated_at": null,
+      "deactivated_reason": null,
+      "completion_summary": null,
+      "abandonment_reason": null,
+      "pending_completion": null
+    }
+  ]
+}
