@@ -2,7 +2,7 @@
   "metadata": {
     "version": "1.0.0",
     "format": "json",
-    "last_updated": "2025-11-30T20:15:08.235551+00:00"
+    "last_updated": "2025-11-30T20:10:29.630542+00:00"
   },
   "entries": [
     {
@@ -87,23 +87,6 @@
         "task_name": "Planning",
         "update_action": "intent",
         "update_details": "Configure upstream remote with PAT and push to basicmicro",
-        "task_status": "pending"
-      },
-      "user_context": null
-    },
-    {
-      "timestamp": "2025-11-30T20:15:08.235497Z",
-      "session_id": null,
-      "event": "task_updated",
-      "group_name": "arduino-submission",
-      "group_status": "active",
-      "task_id": null,
-      "info_id": null,
-      "change": {},
-      "context": {
-        "task_name": "Planning",
-        "update_action": "intent",
-        "update_details": "Update origin remote with new acidtech token",
         "task_status": "pending"
       },
       "user_context": null
